@@ -1,2 +1,2 @@
 # web_messenger2
-This project is just elevated version of the previous project, mainly i will make separate chats, and add the online/offline status. I decided to use node js instead because it is much easier in learning. Aditionally here i will definetly need somesort of database, I haven't decided on which to choose yet. I will definetly have to lock in. 
+This project is just an elevated version of the previous messenger, mainly I will make separate chats, and add the online/offline status, also definetly work on the design. I decided to use node js instead because it is much easier to learn. Aditionally, here I will absolutely need somesort of database, although I haven't decided on which to choose yet. I will definetly have to lock in on coming up weekends. 
